@@ -1,8 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Autonomous Vehicle Control using Reinforcement Learning and Search-Based Policy"
+excerpt: "Reinforcement Learning based policy trained within AirSim simulation using <b>Python, TensorFlow & OpenAI Gym framework.</b>" #<br/><img src='/images/500x300.png'>"
 collection: portfolio
-published: false
+permalink: "/portfolio/autonomous-control/"
+published: true
+tags:
+  - Machine Learning / AI
+  # - Optimal Control
+  # - Path Planning
+
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A Deep Learning (DL) approach to the kidnapped robot problem: a robot with no knowledge of its initial position within a known space navigating to known locations. Set up a training pipeline utilizing the AirSim 3D simulator and the OpenAI Gym training framework and successfully trained various policy models including Deep Q-Networks and Actor-Critic over many iterations using the Tensorflow/Keras DL framework. Ultimately due to time constraints switched to a simpler Search-based policy with limited depth and lookahead information. 
