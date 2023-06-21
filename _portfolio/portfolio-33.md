@@ -11,4 +11,6 @@ tags:
   # - Optimization
 ---
 
+## Summary
+
 Minimized the average delay per vehicle by developing a deep-learning based policy capable of adapting to the conditions of the environment. Implemented using Tensorflow/Keras framework on Python. Policy trained and tested using the Simulation of Urban MObility (SUMO) traffic simulation application. 

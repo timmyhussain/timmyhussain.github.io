@@ -10,6 +10,8 @@ tags:
   # - Path Planning
 ---
 
+## Summary
+
 A Linear Program formulation and approach to the drone routing problem between multiple points of origin and multiple destinations subject to power constraints. Solved using off-the-shelf optimization solver CVXPY.
 
 Very fun project, made effort to include a lot of real-world considerations and coded in a pretty modular way. Will update further soon. 

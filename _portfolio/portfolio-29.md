@@ -11,4 +11,6 @@ tags:
 
 ---
 
+## Summary
+
 A Deep Learning (DL) approach to the kidnapped robot problem: a robot with no knowledge of its initial position within a known space navigating to known locations. Set up a training pipeline utilizing the AirSim 3D simulator and the OpenAI Gym training framework and successfully trained various policy models including Deep Q-Networks and Actor-Critic over many iterations using the Tensorflow/Keras DL framework. Ultimately due to time constraints switched to a simpler Search-based policy with limited depth and lookahead information. 

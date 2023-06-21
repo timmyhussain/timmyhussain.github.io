@@ -11,6 +11,8 @@ tags:
   # - Simulation
 ---
 
+## Summary
+
 This project leverages sensors onboard the PSoC 6 Microcontroller to develop an interactive controller for use with the FlightGear 3D flight simulator. The project makes use of
 -I2C communication for accessing sensor data
 -Multiple threads in C for reading from and writing to shared variables
