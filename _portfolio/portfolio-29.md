@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Vehicle Control using Reinforcement Learning and Search-Based Policy"
-excerpt: "Reinforcement Learning based policy trained within AirSim simulation using <b>Python, TensorFlow & OpenAI Gym framework.</b>" #<br/><img src='/images/500x300.png'>"
+excerpt: "Reinforcement Learning based policy trained within AirSim simulation using <b>Python, TensorFlow & OpenAI Gym frameworks.</b>" #<br/><img src='/images/500x300.png'>"
 collection: portfolio
 permalink: "/portfolio/autonomous-control/"
 published: true
