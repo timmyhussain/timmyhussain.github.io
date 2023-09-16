@@ -1,10 +1,13 @@
 ---
 title: "Rob the Rower <i></i>"
-excerpt: "Embedded software program written in C to control wheeled robot" #<br/><img src='/images/rob-the-rower.png'>"
+excerpt: "
+* Embedded software program written in C to control wheeled robot<br/>
+<img src='/images/rob-the-rower.png' width=300px>"
 collection: portfolio
 permalink: "/portfolio/rob-the-rower/"
+date: 2019-06-30
 tags:
-  - Embedded Software
+  # - Embedded Software
   # - C Programming
   # - Multithreading
   # - Robotics

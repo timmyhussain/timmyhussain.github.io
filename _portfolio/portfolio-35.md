@@ -1,11 +1,14 @@
 ---
 title: "Autonomous Control of eVTOL RC Aircraft<i></i>"
-excerpt: "Developed a control architecture for control and guidance of vertical takeoff and landing RC aircraft using <b>ROS and Python</b>" #<br/><img src='/images/500x300.png'>"
+excerpt: "
+* Developed a control architecture for control and guidance of vertical takeoff and landing RC aircraft using <b>ROS and Python</b><br>
+<img src='/images/evtol.jpg' width=300px>"
 collection: portfolio
 permalink: "/portfolio/autonomous-eVTOL/"
 published: true
+date: 2019-08-31
 tags:
-  - Embedded Software
+  # - Embedded Software
   # - C Programming
   # - Modelling
   # - Simulation

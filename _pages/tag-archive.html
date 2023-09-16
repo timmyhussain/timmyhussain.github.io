@@ -3,7 +3,7 @@ layout: archive
 permalink: /tags/
 title: "Posts by Tags"
 author_profile: true
-published: true
+published: false
 ---
 
 {% include base_path %}
@@ -11,8 +11,12 @@ published: true
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}
+    <a href="{{tag.link}}"></a>
+
+
+  </h2>
+  <!-- {% for post in posts %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endfor %} -->
 {% endfor %}
